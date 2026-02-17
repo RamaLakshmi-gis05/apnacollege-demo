@@ -1,4 +1,5 @@
 # apnacollege-demo
 This is my first git repository,
 <br>
-Author- rama lakshmi
+Author- rama lakshmi(andhra university)
+
